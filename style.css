@@ -1,0 +1,40 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+    box-shadow: 5px 5px 5px black;
+}
+.heading_div2{
+    font-size: 18px;
+}
+.heading_div{
+    float: none;
+    background: orange;
+    padding: 10px;
+    border-radius: 20px;
+    color: royalblue;
+    box-shadow: 5px 5px 5px black;
+
+}
+.footer{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    color: black;
+    text-align: center;
+    line-height: 3;
+    background: orange;
+}
+#Object,#Accuracy{
+    box-shadow: 5px  10px 5px black;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+canvas{
+ border: 8px dashed orange;
+ border-radius: 20px;
+ box-shadow: 5px 8px 10px black;
+ margin-top: 130;
+ 
+}
